@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Word_Composition_Problem", "Word_Composition_Problem\Word_Composition_Problem.csproj", "{D2347FCD-500A-4D65-A59E-ABAA968CA951}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2347FCD-500A-4D65-A59E-ABAA968CA951}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2347FCD-500A-4D65-A59E-ABAA968CA951}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2347FCD-500A-4D65-A59E-ABAA968CA951}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2347FCD-500A-4D65-A59E-ABAA968CA951}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEFBF3A3-6521-4105-BB0D-F2F3F0C6F962}
+	EndGlobalSection
+EndGlobal
